@@ -36,9 +36,9 @@ const Navigation = () => (
 const Hero = () => (
 	<section className='hero'>
 		<div className='hero-content'>
-			<h1>Advancing Artificial Intelligence Research</h1>
-			<p>Exploring the frontiers of machine learning and AI applications</p>
-<p>By: Jayden Strausbaugh</p>
+			<h1>Intervention Hub for Juniata College's AI Research Lab</h1>
+			<p>Advancing what we know about AI's effect on Early Education</p>
+<p>Developed by Jayden Strausbaugh and Jason Wang</p>
 		</div>
 	</section>
 );
