@@ -37,7 +37,7 @@ const Hero = () => (
 	<section className='hero'>
 		<div className='hero-content'>
 			<h1>Intervention Hub for the Juniata College AI Research Lab</h1>
-			<p>Advancing what we know about AI's effect on Early Education</p>
+			<p>Advancing what we know about the effect of AI on Early Education</p>
 <p>Developed by Jayden Strausbaugh and Jason Wang</p>
 		</div>
 	</section>
