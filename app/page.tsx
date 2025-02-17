@@ -36,7 +36,7 @@ const Navigation = () => (
 const Hero = () => (
 	<section className='hero'>
 		<div className='hero-content'>
-			<h1>Intervention Hub for Juniata College&aposs AI Research Lab</h1>
+			<h1>Intervention Hub for Juniata College&#39;s AI Research Lab</h1>
 			<p>Advancing what we know about AI's effect on Early Education</p>
 <p>Developed by Jayden Strausbaugh and Jason Wang</p>
 		</div>
