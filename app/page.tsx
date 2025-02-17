@@ -38,6 +38,7 @@ const Hero = () => (
 		<div className='hero-content'>
 			<h1>Advancing Artificial Intelligence Research</h1>
 			<p>Exploring the frontiers of machine learning and AI applications</p>
+<p>By: Jayden Strausbaugh</p>
 		</div>
 	</section>
 );
