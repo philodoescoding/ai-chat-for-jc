@@ -12,7 +12,7 @@ const TixaeAgent = () => {
 
 		// Set up the configuration for the widget
 		window.VG_CONFIG = {
-			ID: 'ycpmz3ti809f7fyo', // Your agent ID
+			ID: '0rl5u2nlq47rof2r', // Your agent ID
 			region: 'na', // Your account region
 			render: 'bottom-right', // Can be 'full-width' or 'bottom-left' or 'bottom-right'
 			stylesheets: [
